@@ -148,7 +148,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>D3 Table with Row and Column Grouping</h1>
+      <h1>Table with Row and Column Grouping</h1>
       <ReactTabulator
         data={data}
         columns={columns}
